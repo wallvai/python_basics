@@ -33,3 +33,4 @@ for x, y in final.items():
     x_parsel = x_ada_parsel[1]
     print(x_ada,x_parsel, y)
 
+    what is the matrix ?
